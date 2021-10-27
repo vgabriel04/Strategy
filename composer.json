@@ -1,0 +1,9 @@
+{
+  "name": "victorg/strategy",
+  "autoload": {
+      "psr-4": {
+          "Strategy\\": "src/"
+      }
+  },
+  "require": {}
+}
